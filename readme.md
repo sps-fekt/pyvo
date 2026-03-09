@@ -10,6 +10,10 @@ Obsahuje přednastavené profily, podle kterých se vytváří tabulky v databá
 ## Soubor pyvo.db
 Soubor SQLite databáze, pro načtení jiného presetu je potřeba ho přesunout nebo odstranit.
 
+## Požadavky
+- git [link](https://git-scm.com/)
+- python runtime [link](https://apps.microsoft.com/detail/9pnrbtzxmb4z)
+
 ## Stažení a instalace závislostí
 ### Linux
 ```commandline
