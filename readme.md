@@ -10,16 +10,32 @@ Obsahuje přednastavené profily, podle kterých se vytváří tabulky v databá
 ## Soubor pyvo.db
 Soubor SQLite databáze, pro načtení jiného presetu je potřeba ho přesunout nebo odstranit.
 
-## Instalace závislostí
+## Stažení a instalace závislostí
+### Linux
 ```commandline
+git clone https://github.com/sps-fekt/pyvo.git
 cd pyvo/src
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Spuštění
+### Windows
 ```commandline
-cd pyvo/src
+git clone https://github.com/sps-fekt/pyvo.git
+cd pyvo\src
+python -m venv .venv
+.venv\Scripts\activate.bat
+pip install -r requirements.txt
+```
+
+## Spuštění
+### Linux
+```commandline
+python main.py
+```
+
+### Windows
+```commandline
 python main.py
 ```
