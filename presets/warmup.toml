@@ -1,4 +1,4 @@
-title = "WarmUp 2024"
+title = "WarmUp 2026"
 
 [[weights]]
 name = "Ostatní"
@@ -13,25 +13,13 @@ name = "FEKT"
 weight = 3
 
 [[options]]
-name = "Scorched Æarth"
+name = "Unhinged V"
 
 [[options]]
-name = "Black Spring"
+name = "Aldente"
 
 [[options]]
-name = "Slaves of Passion"
+name = "Preceptor"
 
 [[options]]
-name = "July Morning"
-
-[[options]]
-name = "Levaross"
-
-[[options]]
-name = "ZBYNEK"
-
-[[options]]
-name = "momentary francis"
-
-[[options]]
-name = "Vinc & Red Light Street"
+name = "Tight Trail"
